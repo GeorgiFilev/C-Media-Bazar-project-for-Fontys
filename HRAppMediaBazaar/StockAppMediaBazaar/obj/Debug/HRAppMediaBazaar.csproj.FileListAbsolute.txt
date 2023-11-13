@@ -1,0 +1,212 @@
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Contracts.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Shift.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployee.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Login.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ViewShifts.resources
+C:\Users\galsa\source\repos\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetails.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Contracts.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetails.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployee.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Login.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Shift.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Contracts.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetails.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployee.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Login.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Shift.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ViewShifts.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\New folder\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\achkata\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\achkata\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Contracts.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetails.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployee.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Login.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Shift.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ViewShifts.resources
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\achkata\Desktop\HRAppMediaBazaar - Copy\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Contracts.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetails.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployee.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Login.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Shift.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.UpdateEmployee.resources
+C:\Users\achkata\Desktop\Semester 2\Project\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.UpdateEmployee.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ContractsForm.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetailsForm.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployeeForm.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.LoginForm.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.UpdateEmployeeForm.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ShiftFormCreate.resources
+C:\Users\galsa\OneDrive\Desktop\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ShiftsOverview.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ContractsForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetailsForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployeeForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.LoginForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ShiftFormCreate.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ShiftsOverview.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.UpdateEmployeeForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ContractsForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.EmployeeDetailsForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HireEmployeeForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.LoginForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ShiftFormCreate.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.ShiftsOverview.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.UpdateEmployeeForm.resources
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\HRAppMediaBazaar.csproj.CopyComplete
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\angil\Desktop\Semester 2\Project\Iterative\media bazaar current progress\clonetest\media-bazaar-s2-cb01-group1\HRAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb

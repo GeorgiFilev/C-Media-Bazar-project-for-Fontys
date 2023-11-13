@@ -1,0 +1,13 @@
+floors with products and employee 
+
+crud department
+
+assign employees and products 
+
+no more enums
+
+pull from database the departments
+
+departments in manager app 
+
+column for stock (boolean yes no)

@@ -1,0 +1,15 @@
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe.config
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\bin\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Properties.Resources.resources
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.exe
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.pdb
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.HR.resources
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Employee.resources
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Contracts.resources
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.Shift.resources
+C:\Users\galsa\source\repos\StockAppMediaBazaar\StockAppMediaBazaar\obj\Debug\StockAppMediaBazaar.csprojAssemblyReference.cache

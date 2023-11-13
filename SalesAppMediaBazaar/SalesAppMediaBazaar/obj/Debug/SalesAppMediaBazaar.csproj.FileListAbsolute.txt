@@ -1,0 +1,127 @@
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe.config
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.pdb
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Form1.resources
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Properties.Resources.resources
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CopyComplete
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.exe
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.pdb
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.SalesForm.resources
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Login.resources
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\George\source\repos\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe.config
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.pdb
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.dll
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.xml
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csprojAssemblyReference.cache
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Form1.resources
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Login.resources
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Properties.Resources.resources
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.SalesForm.resources
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.GenerateResource.cache
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CopyComplete
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.exe
+D:\Semester 2\Project\Repository\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.pdb
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe.config
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.pdb
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.dll
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.xml
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csprojAssemblyReference.cache
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Form1.resources
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Login.resources
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Properties.Resources.resources
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.SalesForm.resources
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.GenerateResource.cache
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CopyComplete
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.exe
+D:\Semester 2\Project\Saves\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe.config
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.pdb
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Form1.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Login.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Properties.Resources.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.SalesForm.resources
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CoreCompileInputs.cache
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CopyComplete
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.exe
+C:\Users\galsa\OneDrive\Документи\Fontys\Software Engineering\Semester 2\Project\Media Bazaar\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.pdb
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe.config
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.pdb
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.dll
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.xml
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csprojAssemblyReference.cache
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Form1.resources
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Login.resources
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Properties.Resources.resources
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.SalesForm.resources
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.GenerateResource.cache
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CopyComplete
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.exe
+D:\Semester 2\Project\project fnal sales\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe.config
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.exe
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\SalesAppMediaBazaar.pdb
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.dll
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.dll
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.dll
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Google.Protobuf.xml
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\MySql.Data.xml
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\bin\Debug\Renci.SshNet.xml
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csprojAssemblyReference.cache
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Form1.resources
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Login.resources
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.Properties.Resources.resources
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.SalesForm.resources
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.GenerateResource.cache
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.csproj.CopyComplete
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.exe
+C:\Users\achkata\Desktop\Semester 2\Project\Iterative\media bazaar current progress\media-bazaar-s2-cb01-group1\SalesAppMediaBazaar\SalesAppMediaBazaar\obj\Debug\SalesAppMediaBazaar.pdb
